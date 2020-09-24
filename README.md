@@ -5,6 +5,7 @@ Search algorithms are one of the most important areas of Artificial Intelligence
 A* Search algorithm is one of the best and popular technique used in path-finding and graph traversals.
 It combines the strenghts of a greedy search with the strenghts of a branch and bound search because it uses as additional information both: 
 > how far is the agent from the goal
+
 > how much has the agent travelled from the initial state
 
 The overall context is when we start from an initial cell and want to reach a final cell. This problem can easily be represented considering a 2D-grid having several obstacles.
